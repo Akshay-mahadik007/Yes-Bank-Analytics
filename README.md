@@ -115,10 +115,7 @@ The dashboard screenshot includes a **Download PDF** button. The watermark and r
 4. Open individual worksheet tabs to inspect each analysis.
 5. Use the filters to explore different slices of the available data.
 
-## Screenshot Notes
-
-Screenshots in this repository are captured views of the workbook. Values and patterns may change when filters, data, or workbook calculations change. Use the interactive workbook for further exploration.
 
 ## Author
 
-Add your name, GitHub profile, or portfolio link here.
+Akshay Mahadik,[ GitHub profile](https://github.com/Akshay-mahadik007)
